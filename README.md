@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,FFD700&height=200&section=header&text=Nipun%20Saini&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Robotics%20%7C%20AI&descAlignY=55&descSize=22&animation=fadeIn" />
 
-# Hi, I'm Nipun 🚀
+# Hi, I'm Nipun
 
 **`Computer Engineering @ University of Washington (Class of 2028)`**
 
