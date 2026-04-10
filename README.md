@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| 🥇 Award | 📋 Details |
+|  Award |  Details |
 |:--------:|:----------:|
 | **ConnectAble AAC System 2026** | 1st Place — Personalized AAC communication system with ML-powered predictions |
 | **DubsTech Datathon 2026** | Honorable Mention — Healthcare Access Barriers Analysis |
@@ -45,7 +45,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -80,11 +80,11 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### ♿ ConnectAble — AAC Communication System
+###  ConnectAble — AAC Communication System
 *1st Place — 2026*
 
 </div>
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-### 🏥 Healthcare Access Barriers Analysis
+###  Healthcare Access Barriers Analysis
 *DubsTech Datathon 2026 — Honorable Mention*
 
 </div>
@@ -115,7 +115,7 @@
 
 <div align="center">
 
-### 🌊 Sea Score (SaveEarth)
+###  Sea Score (SaveEarth)
 *Honorable Mention — November 2025*
 
 </div>
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-### 💸 Nudge
+###  Nudge
 *HuskyHack 2025*
 
 </div>
@@ -146,7 +146,7 @@
 
 <div align="center">
 
-### ☀️ SolarSave
+###  SolarSave
 *March 2025*
 
 </div>
@@ -159,7 +159,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -171,7 +171,7 @@
 
 ---
 
-## 👥 Community & Leadership
+##  Community & Leadership
 
 <div align="center">
 
