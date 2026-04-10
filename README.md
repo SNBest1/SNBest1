@@ -9,7 +9,7 @@
 
 *Autonomous Systems · Machine Learning · Full-Stack Development*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Autonomous+Rover+Dev+%40+Trickfire+Robotics;DubsTech+2026+Hackathon+Honarable+Mention+%F0%9F%8F%86;93.7%25+ML+Accuracy+Achieved;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=ConnectAble+AAC+System+%F0%9F%8F%861st+Place+2026;DubsTech+2026+Datathon+Honorable+Mention+%F0%9F%8F%86;93.7%25+ML+Accuracy+Achieved;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,11 +29,14 @@
 
 | 🥇 Award | 📋 Details |
 |:--------:|:----------:|
-| **DubsTech Hackathon 2026** | Honorable Mention — Healthcare Access Barriers Analysis |
+| **ConnectAble AAC System 2026** | 1st Place — Personalized AAC communication system with ML-powered predictions |
+| **DubsTech Datathon 2026** | Honorable Mention — Healthcare Access Barriers Analysis |
+| **Sea Score (SaveEarth) 2025** | Honorable Mention — Eco-challenge platform with ML photo validation |
 | **93.7% ML Accuracy** | 13 algorithms benchmarked for healthcare inequity detection |
 | **50+ Students Tutored** | King County Library System Mathematics Program |
 
 <!-- Custom Achievement Badges -->
+[![ConnectAble Winner](https://img.shields.io/badge/ConnectAble%202026-1st%20Place%20🏆-4B0082?style=for-the-badge)](/)
 [![DubsTech Winner](https://img.shields.io/badge/DubsTech%202026-Honorable%20Mention%20🏆-FFD700?style=for-the-badge)](/)
 [![ML Accuracy](https://img.shields.io/badge/ML%20Accuracy-93.7%25-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white)](/)
 [![Students](https://img.shields.io/badge/Students%20Mentored-50%2B-blue?style=for-the-badge&logo=bookstack&logoColor=white)](/)
@@ -81,12 +84,28 @@
 
 <div align="center">
 
-### 🏥 Healthcare Access Barriers Analysis
-*DubsTech 2026 Hackathon — Honorable Mention*
+### ♿ ConnectAble — AAC Communication System
+*1st Place — 2026*
 
 </div>
 
-> Engineered a comprehensive ML pipeline to identify **healthcare inequities** across demographic groups. Benchmarked **13 different algorithms** to achieve a final model accuracy of **93.7%** using Scikit-learn, Pandas, and NumPy on real-world public health datasets.
+> Built a personalized **Augmentative and Alternative Communication (AAC)** system for non-verbal users. A symbol board lets users compose sentences and speak them aloud while the system learns their communication style over time. Predictions use a **3-layer cascade**: bigram lookup → ChromaDB vector search → Ollama LLM fallback. An agent tab handles natural language intent classification and tool dispatch.
+
+[![Award](https://img.shields.io/badge/Award-1st%20Place%20🏆-4B0082?style=flat-square)](/)
+[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript%20%7C%20Vite%20%7C%20Tailwind-61DAFB?style=flat-square&logo=react)](/)
+[![Backend](https://img.shields.io/badge/Backend-FastAPI%20%7C%20SQLite%20%7C%20ChromaDB-009688?style=flat-square)](/)
+[![LLM](https://img.shields.io/badge/LLM-Ollama%20phi3%20(local)-black?style=flat-square)](/)
+
+---
+
+<div align="center">
+
+### 🏥 Healthcare Access Barriers Analysis
+*DubsTech Datathon 2026 — Honorable Mention*
+
+</div>
+
+> Engineered three complete ML pipelines to identify **healthcare inequities** across 75 demographic subgroups. Benchmarked **13 algorithms** achieving **93.7% accuracy** for cost-barrier prediction, ARIMA-style forecasting of 2025 care-delay trends, and clustering that surfaced 11 high-confidence anomalies with a 0.815 silhouette score.
 
 [![Accuracy](https://img.shields.io/badge/Model%20Accuracy-93.7%25-brightgreen?style=flat-square)](/)
 [![Algorithms](https://img.shields.io/badge/Algorithms%20Tested-13-blueviolet?style=flat-square)](/)
@@ -96,41 +115,46 @@
 
 <div align="center">
 
-### 🛸 Trickfire Robotics — Autonomous Navigation System
+### 🌊 Sea Score (SaveEarth)
+*Honorable Mention — November 2025*
 
 </div>
 
-> Developing real-time **waypoint navigation** and autonomous decision-making for a competition rover. Work involves sensor fusion, embedded systems programming, and optimization of data pipelines for latency-sensitive environments.
+> Eco-conscious mobile app that rewards users for real-world sustainability actions. Users complete challenges, upload photo proof, earn points, and unlock rewards. Photo validation runs via **zero-shot object detection** (`Xenova/owlv2-base-patch16`) — no model retraining needed per challenge.
 
-[![Type](https://img.shields.io/badge/Type-Embedded%20%2F%20Robotics-red?style=flat-square)](/)
-[![Focus](https://img.shields.io/badge/Focus-Autonomous%20Navigation-blue?style=flat-square)](/)
-[![Stack](https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20Python%20%7C%20MATLAB-yellow?style=flat-square)](/)
+[![Award](https://img.shields.io/badge/Award-Honorable%20Mention-FFD700?style=flat-square)](/)
+[![Frontend](https://img.shields.io/badge/Frontend-React%20Native%20(Expo)-61DAFB?style=flat-square&logo=react)](/)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Firebase-43853D?style=flat-square&logo=node.js)](/)
+[![ML](https://img.shields.io/badge/ML-OWLv2%20Zero--Shot%20Detection-FFD21E?style=flat-square)](/)
 
 ---
 
 <div align="center">
 
-### 🌊 Ocean Conservation Platform
+### 💸 Nudge
+*HuskyHack 2025*
 
 </div>
 
-> Built a full-stack platform leveraging **Hugging Face ML models** to automatically categorize ocean waste from image inputs — accelerating marine conservation data collection with AI.
+> Mobile banking feature for Sound Credit Union that surfaces **personalized deals** matched to spending habits, tracks savings over time, and delivers **GPT-4o-mini** powered financial advice and projections — all inside the existing app experience.
 
-[![ML](https://img.shields.io/badge/Powered%20By-Hugging%20Face%20🤗-FFD21E?style=flat-square)](/)
-[![Category](https://img.shields.io/badge/Domain-Environmental%20AI-00b4d8?style=flat-square)](/)
+[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20shadcn%2Fui-61DAFB?style=flat-square&logo=react)](/)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-43853D?style=flat-square&logo=node.js)](/)
+[![AI](https://img.shields.io/badge/AI-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)](/)
 
 ---
 
 <div align="center">
 
 ### ☀️ SolarSave
+*March 2025*
 
 </div>
 
-> A full-stack solar savings calculator using the **NREL Solar API** and **OpenCage Geocoding API** to deliver personalized renewable energy potential reports. Built with React.js frontend and Node.js/Express backend.
+> Full-stack solar savings calculator using the **NREL Solar API** and **OpenCage Geocoding API**. Enter any address to get real irradiance data, estimated annual savings, and CO₂ offset — built with a React 19 frontend and Node.js/Express backend.
 
-[![Frontend](https://img.shields.io/badge/Frontend-React.js-61DAFB?style=flat-square&logo=react)](/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-43853D?style=flat-square&logo=node.js)](/)
+[![Frontend](https://img.shields.io/badge/Frontend-React%2019%20%7C%20React%20Router%20v7-61DAFB?style=flat-square&logo=react)](/)
+[![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%205-43853D?style=flat-square&logo=node.js)](/)
 [![API](https://img.shields.io/badge/APIs-NREL%20%7C%20OpenCage-orange?style=flat-square)](/)
 
 ---
