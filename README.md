@@ -1,207 +1,296 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,FFD700&height=200&section=header&text=Nipun%20Saini&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Robotics%20%7C%20AI&descAlignY=55&descSize=22&animation=fadeIn" />
+<!-- ░░░ ANIMATED HEADER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,FFD700&height=220&section=header&text=Nipun%20Saini&fontSize=72&fontColor=ffffff&fontAlignY=34&desc=Machine%20Learning%20%C2%B7%20Assistive%20Tech%20%C2%B7%20Full-Stack&descAlignY=54&descSize=20&animation=fadeIn" />
 
-# Hi, I'm Nipun
+# 👋 Hi, I'm Nipun
 
-**`Computer Engineering @ University of Washington (Class of 2028)`**
+**`Computer Engineering @ University of Washington · Class of 2028`**
 
-*Autonomous Systems · Machine Learning · Full-Stack Development*
+<p><em>I build machine learning, full-stack, and assistive technology that people actually need.</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=ConnectAble+AAC+System+%F0%9F%8F%861st+Place+2026;DubsTech+2026+Datathon+Honorable+Mention+%F0%9F%8F%86;93.7%25+ML+Accuracy+Achieved;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+<!-- ░░░ TYPING SVG ░░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=8+builds+shipped.+4+hackathon+awards.;ConnectAble+%E2%80%94+1st+Place+%F0%9F%8F%86;Linx+%E2%80%94+4th+Place%2C+BeaverHacks+NVIDIA;93.7%25+ML+accuracy+across+75+subgroups;Building+at+the+edge+of+hardware+%2B+intelligence)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Status Badge Row -->
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](/)
-[![Location](https://img.shields.io/badge/Seattle%2FBothell-Washington-4B0082?style=for-the-badge&logo=google-maps&logoColor=FFD700)](/)
-[![UW](https://img.shields.io/badge/University%20of%20Washington-Class%20of%202028-4B0082?style=for-the-badge&logo=graduation-cap&logoColor=FFD700)](https://www.washington.edu/)
+<!-- ░░░ STATUS ROW ░░░ -->
+[![Status](https://img.shields.io/badge/Open%20to-SWE%20Internships-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](mailto:nipun@nipunsaini.com)
+[![Location](https://img.shields.io/badge/Seattle%20%C2%B7%20Bothell-Washington-4B0082?style=for-the-badge&logo=googlemaps&logoColor=FFD700)](/)
+[![UW](https://img.shields.io/badge/UW-Class%20of%202028-4B0082?style=for-the-badge&logo=googlescholar&logoColor=FFD700)](https://www.washington.edu/)
+
+<!-- ░░░ SOCIAL ROW ░░░ -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-nipunsaini.com-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://nipunsaini.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-saini-73917a220/)
+[![Email](https://img.shields.io/badge/Email-nipun%40nipunsaini.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipun@nipunsaini.com)
 
 </div>
 
 ---
 
+<div align="center">
 
-## 🏆 Achievements
+### 🧭 What I'm about
+
+</div>
+
+> I'm a Computer Engineering student at the University of Washington who builds at the edge of **hardware and intelligence** — from low-level systems to ML models that draft sentences for non-verbal users, watch over Alzheimer's patients offline, and surface healthcare disparities hidden in the data.
 
 <div align="center">
 
-|  Award |  Details |
-|:--------:|:----------:|
-| **ConnectAble AAC System 2026** | 1st Place — Personalized AAC communication system with ML-powered predictions |
-| **DubsTech Datathon 2026** | Honorable Mention — Healthcare Access Barriers Analysis |
-| **Sea Score (SaveEarth) 2025** | Honorable Mention — Eco-challenge platform with ML photo validation |
-| **93.7% ML Accuracy** | 13 algorithms benchmarked for healthcare inequity detection |
-| **50+ Students Tutored** | King County Library System Mathematics Program |
-
-<!-- Custom Achievement Badges -->
-[![ConnectAble Winner](https://img.shields.io/badge/ConnectAble%202026-1st%20Place%20🏆-4B0082?style=for-the-badge)](/)
-[![DubsTech Winner](https://img.shields.io/badge/DubsTech%202026-Honorable%20Mention%20🏆-FFD700?style=for-the-badge)](/)
-[![ML Accuracy](https://img.shields.io/badge/ML%20Accuracy-93.7%25-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white)](/)
-[![Students](https://img.shields.io/badge/Students%20Mentored-50%2B-blue?style=for-the-badge&logo=bookstack&logoColor=white)](/)
+| 🚀 Builds shipped | 🏆 Hackathon awards | 🎓 Graduating | 📍 Based in |
+|:---:|:---:|:---:|:---:|
+| **8** | **4** | **2028** | **Seattle, WA** |
 
 </div>
 
 ---
 
-##  Tech Stack
+## 🏆 Awards & Highlights
 
 <div align="center">
 
-### Languages
+| 🥇 Honor | 🔎 What it was |
+|:---|:---|
+| **🥇 1st Place — ConnectAble (2026)** | Predictive AAC system for non-verbal users · 3-layer ML cascade |
+| **🏅 4th Place — Linx, BeaverHacks 2026 (NVIDIA Track)** | Offline local-first AI for Alzheimer's care on a ~$150 Raspberry Pi |
+| **🎖️ Honorable Mention — DubsTech Datathon 2026** | Healthcare access inequity analysis · 93.7% ML accuracy |
+| **🎖️ Honorable Mention — Sea Score (2025)** | Sustainability app with zero-shot ML photo verification |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+**Frontend**
 
-### Machine Learning & Data
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=chromadb&logoColor=white)
 
-### Hardware & Systems
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge&logo=analog-devices&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+**Cloud, DevOps & Hardware**
 
-### Tools & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-###  ConnectAble — AAC Communication System
-*1st Place — 2026*
+### ♿ ConnectAble — AAC Communication System &nbsp;·&nbsp; 🥇 1st Place (2026)
 
 </div>
 
-> Built a personalized **Augmentative and Alternative Communication (AAC)** system for non-verbal users. A symbol board lets users compose sentences and speak them aloud while the system learns their communication style over time. Predictions use a **3-layer cascade**: bigram lookup → ChromaDB vector search → Ollama LLM fallback. An agent tab handles natural language intent classification and tool dispatch.
-
-[![Award](https://img.shields.io/badge/Award-1st%20Place%20🏆-4B0082?style=flat-square)](/)
-[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript%20%7C%20Vite%20%7C%20Tailwind-61DAFB?style=flat-square&logo=react)](/)
-[![Backend](https://img.shields.io/badge/Backend-FastAPI%20%7C%20SQLite%20%7C%20ChromaDB-009688?style=flat-square)](/)
-[![LLM](https://img.shields.io/badge/LLM-Ollama%20phi3%20(local)-black?style=flat-square)](/)
-
----
+> A personalized **Augmentative and Alternative Communication** system for non-verbal users. A 66-symbol board lets users compose sentences and speak them aloud, while the system learns their voice over time. Predictions run a **3-layer cascade** — bigram lookup → ChromaDB vector search → Ollama `phi3` fallback — and a nightly 2 AM job retrains continuously. Everything runs locally; phrases are stored in AES-256 encrypted SQLite. An agent tab classifies natural-language intent and dispatches tools.
 
 <div align="center">
 
-###  Healthcare Access Barriers Analysis
-*DubsTech Datathon 2026 — Honorable Mention*
+![Award](https://img.shields.io/badge/🏆%201st%20Place-4B0082?style=flat-square)
+![Frontend](https://img.shields.io/badge/React%2018%20%C2%B7%20TypeScript%20%C2%B7%20Vite%20%C2%B7%20Tailwind-61DAFB?style=flat-square&logo=react)
+![Backend](https://img.shields.io/badge/FastAPI%20%C2%B7%20SQLite%20%C2%B7%20ChromaDB-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LLM](https://img.shields.io/badge/Ollama%20phi3%20(local)-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </div>
-
-> Engineered three complete ML pipelines to identify **healthcare inequities** across 75 demographic subgroups. Benchmarked **13 algorithms** achieving **93.7% accuracy** for cost-barrier prediction, ARIMA-style forecasting of 2025 care-delay trends, and clustering that surfaced 11 high-confidence anomalies with a 0.815 silhouette score.
-
-[![Accuracy](https://img.shields.io/badge/Model%20Accuracy-93.7%25-brightgreen?style=flat-square)](/)
-[![Algorithms](https://img.shields.io/badge/Algorithms%20Tested-13-blueviolet?style=flat-square)](/)
-[![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Scikit--learn%20%7C%20Pandas-orange?style=flat-square)](/)
 
 ---
 
 <div align="center">
 
-###  Sea Score (SaveEarth)
-*Honorable Mention — November 2025*
+### 🧠 Linx — Offline AI for Alzheimer's Care &nbsp;·&nbsp; 🏅 4th Place, BeaverHacks 2026 (NVIDIA Track)
 
 </div>
 
-> Eco-conscious mobile app that rewards users for real-world sustainability actions. Users complete challenges, upload photo proof, earn points, and unlock rewards. Photo validation runs via **zero-shot object detection** (`Xenova/owlv2-base-patch16`) — no model retraining needed per challenge.
+> Local-first care companion that runs **entirely offline** on a ~$150 Raspberry Pi stack (camera, ultrasonic sensor, 4-mic array). Sensor signals fuse into a rolling memory buffer reasoned over by **NVIDIA Nemotron 3** via Ollama, while a parallel deterministic rule engine catches high-risk patterns (stove left on, extended inactivity) before inference — rules can raise risk but never lower it. Backend is six MCP microservices. Built in 24 hours by a team of 4.
 
-[![Award](https://img.shields.io/badge/Award-Honorable%20Mention-FFD700?style=flat-square)](/)
-[![Frontend](https://img.shields.io/badge/Frontend-React%20Native%20(Expo)-61DAFB?style=flat-square&logo=react)](/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Firebase-43853D?style=flat-square&logo=node.js)](/)
-[![ML](https://img.shields.io/badge/ML-OWLv2%20Zero--Shot%20Detection-FFD21E?style=flat-square)](/)
+<div align="center">
+
+![Award](https://img.shields.io/badge/🏅%204th%20Place%20%C2%B7%20NVIDIA%20Track-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![AI](https://img.shields.io/badge/Nemotron%203%20%C2%B7%20Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Backend](https://img.shields.io/badge/Python%20%C2%B7%206×%20MCP%20microservices-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hardware](https://img.shields.io/badge/Raspberry%20Pi%20%C2%B7%20ReSpeaker-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-###  Nudge
-*HuskyHack 2025*
+### 🏥 Healthcare ML Analysis &nbsp;·&nbsp; 🎖️ Honorable Mention, DubsTech Datathon 2026
 
 </div>
 
-> Mobile banking feature for Sound Credit Union that surfaces **personalized deals** matched to spending habits, tracks savings over time, and delivers **GPT-4o-mini** powered financial advice and projections — all inside the existing app experience.
+> Three complete ML pipelines surfacing **healthcare inequities** across 75 demographic subgroups. Benchmarked **13 algorithms** to hit **93.7% accuracy** on cost-barrier prediction, forecast 2025 care-delay trends (9.15% avg, 95% CI 7.93–10.36%), and cluster 11 high-confidence anomalies at a 0.815 silhouette score — revealing a post-COVID rebound in barriers and mental health as the only worsening category. ~90s total runtime.
 
-[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript%20%7C%20Tailwind%20%7C%20shadcn%2Fui-61DAFB?style=flat-square&logo=react)](/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-43853D?style=flat-square&logo=node.js)](/)
-[![AI](https://img.shields.io/badge/AI-GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)](/)
+<div align="center">
+
+![Award](https://img.shields.io/badge/🎖️%20Honorable%20Mention-FFD700?style=flat-square)
+![Accuracy](https://img.shields.io/badge/Accuracy-93.7%25-brightgreen?style=flat-square)
+![Algorithms](https://img.shields.io/badge/13%20algorithms%20%C2%B7%2075%20subgroups-blueviolet?style=flat-square)
+![Stack](https://img.shields.io/badge/Python%20%C2%B7%20scikit--learn%20%C2%B7%20pandas-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-###  SolarSave
-*March 2025*
+### 🌊 Sea Score (SaveEarth) &nbsp;·&nbsp; 🎖️ Honorable Mention (2025)
 
 </div>
 
-> Full-stack solar savings calculator using the **NREL Solar API** and **OpenCage Geocoding API**. Enter any address to get real irradiance data, estimated annual savings, and CO₂ offset — built with a React 19 frontend and Node.js/Express backend.
-
-[![Frontend](https://img.shields.io/badge/Frontend-React%2019%20%7C%20React%20Router%20v7-61DAFB?style=flat-square&logo=react)](/)
-[![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%205-43853D?style=flat-square&logo=node.js)](/)
-[![API](https://img.shields.io/badge/APIs-NREL%20%7C%20OpenCage-orange?style=flat-square)](/)
-
----
-
-##  GitHub Stats
+> Eco-conscious mobile app that rewards real-world sustainability actions. Users complete challenges, upload photo proof, earn points, and unlock rewards. Photo validation runs via **zero-shot object detection** (`Xenova/owlv2-base-patch16`) — no retraining per challenge — alongside a passport, rewards marketplace, team leaderboard, and community feed.
 
 <div align="center">
 
-<img height="180em" src="https://stats.nipunsaini.com/api?username=SNBest1&show_icons=true&theme=dark" />
-
-<img height="180em" src="https://stats.nipunsaini.com/api/top-langs/?username=SNBest1&layout=compact&theme=dark" />
+![Award](https://img.shields.io/badge/🎖️%20Honorable%20Mention-FFD700?style=flat-square)
+![Frontend](https://img.shields.io/badge/React%20Native%20(Expo)-61DAFB?style=flat-square&logo=react)
+![Backend](https://img.shields.io/badge/Node.js%20%C2%B7%20Express%20%C2%B7%20Firebase-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![ML](https://img.shields.io/badge/OWLv2%20Zero--Shot-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </div>
 
 ---
 
-##  Community & Leadership
+<div align="center">
+
+### 🤝 Affiniti — AI Event Networking &nbsp;·&nbsp; UWBHacks 2026
+
+</div>
+
+> On RSVP, a **local LLM** summarizes your profile into a 768-d embedding and embeds your intent. Matching blends profile + intent similarity (60/40) via **pgvector** cosine search over an HNSW index, applies a skill-diversity constraint, and generates a personalized icebreaker per match — all on-device, no cloud. iOS app surfaces a discovery feed, top-4 matches, bookmarks, and live status.
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/SwiftUI%20(iOS)-0071E3?style=flat-square&logo=swift&logoColor=white)
+![Backend](https://img.shields.io/badge/FastAPI%20%C2%B7%20SQLAlchemy%20%C2%B7%20asyncpg-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DB](https://img.shields.io/badge/PostgreSQL%20%C2%B7%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ML](https://img.shields.io/badge/Gemma%204%20%C2%B7%20mlx--lm-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🆘 Frustration Detector &nbsp;·&nbsp; AWS Hackathon
+
+</div>
+
+> Chrome extension + **event-driven AWS** backend that detects when someone is struggling online (repeated reloads, error pages, stuck forms, scam sites) and emails a caregiver a plain-English summary with a screenshot. At local score ≥10 it captures a tab and POSTs to API Gateway → Lambda writes to DynamoDB (30-day TTL) and S3. EventBridge re-scans every 15 min, and at aggregate score ≥5 publishes an SNS email with a presigned link.
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Backend](https://img.shields.io/badge/Lambda%20%C2%B7%20API%20Gateway%20%C2%B7%20DynamoDB-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Infra](https://img.shields.io/badge/S3%20%C2%B7%20SNS%20%C2%B7%20EventBridge%20%C2%B7%20CDK-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💸 Nudge &nbsp;·&nbsp; HuskyHack 2025 &nbsp;&nbsp;|&nbsp;&nbsp; ☀️ SolarSave &nbsp;·&nbsp; 2025
+
+</div>
+
+> **Nudge** — A mobile banking feature for Sound Credit Union that surfaces **personalized deals** matched to spending habits, tracks savings over time, and delivers **GPT-4o-mini** financial advice and projections, all inside the existing app.
+>
+> **SolarSave** — A full-stack solar savings calculator. Enter any address; it geocodes via **OpenCage** and pulls real irradiance from the **NREL Solar API** to return estimated annual savings and CO₂ offset.
+
+<div align="center">
+
+![Nudge](https://img.shields.io/badge/Nudge-React%20%C2%B7%20Express%20%C2%B7%20GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
+![SolarSave](https://img.shields.io/badge/SolarSave-React%2019%20%C2%B7%20Express%205%20%C2%B7%20NREL%20API-FFA500?style=flat-square&logo=react)
+
+</div>
+
+<div align="center">
+
+🔗 **Explore every build with full write-ups at [nipunsaini.com](https://nipunsaini.com)**
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://stats.nipunsaini.com/api?username=SNBest1&show_icons=true&theme=react&hide_border=true&bg_color=060608&title_color=8A2BE2&icon_color=FFD700&text_color=f4f4f2" />
+<img height="170em" src="https://stats.nipunsaini.com/api/top-langs/?username=SNBest1&layout=compact&theme=react&hide_border=true&bg_color=060608&title_color=8A2BE2&text_color=f4f4f2" />
+
+</div>
+
+---
+
+## 👥 Beyond the Keyboard
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║               BEYOND THE KEYBOARD                        ║
-╠══════════════════════════════════════════════════════════╣
-║  📚  Math Tutor · King County Library System             ║
-║      → 50+ students · Measurable curriculum gains        ║
-╠══════════════════════════════════════════════════════════╣
-║  🏥  Patient Services · Evergreen Hospital               ║
-║      → HIPAA compliance · Emergency protocol execution   ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║   📚  Math Tutor · King County Library System                ║
+║       → 50+ students mentored · measurable curriculum gains  ║
+╠══════════════════════════════════════════════════════════════╣
+║   🏥  Hospital Associate · Evergreen Hospital                ║
+║       → HIPAA-compliant records · clinical emergency response║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
+## 📫 Let's Build Something
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nipunsaini.com-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://nipunsaini.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nipun%20Saini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-saini-73917a220/)
-[![Email](https://img.shields.io/badge/Email-nipun.saini9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipun.saini9@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nipunsaini-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNBest1)
+[![Email](https://img.shields.io/badge/Email-nipun%40nipunsaini.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipun@nipunsaini.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SNBest1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SNBest1)
 
 <br/>
 
-*"Engineering systems that think, move, and adapt."*
+***"Building at the edge of hardware and intelligence — technology that people actually need."***
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082,8A2BE2,FFD700&height=120&section=footer&animation=fadeIn" />
 
