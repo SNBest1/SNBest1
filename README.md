@@ -10,7 +10,7 @@
 <p><em>I build machine learning, full-stack, and assistive technology that people actually need.</em></p>
 
 <!-- ░░░ TYPING SVG ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=8+builds+shipped.+4+hackathon+awards.;ConnectAble+%E2%80%94+1st+Place+%F0%9F%8F%86;Linx+%E2%80%94+4th+Place%2C+BeaverHacks+NVIDIA;93.7%25+ML+accuracy+across+75+subgroups;Building+at+the+edge+of+hardware+%2B+intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=9+builds+shipped.+5+hackathon+awards.;ConnectAble+%E2%80%94+1st+Place+%F0%9F%8F%86;Medical+Bill+Guardian+%E2%80%94+3rd+Place%2C+MHacks+Capital+One;Linx+%E2%80%94+4th+Place%2C+BeaverHacks+NVIDIA;93.7%25+ML+accuracy+across+75+subgroups;Building+at+the+edge+of+hardware+%2B+intelligence)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 | 🚀 Builds shipped | 🏆 Hackathon awards | 🎓 Graduating | 📍 Based in |
 |:---:|:---:|:---:|:---:|
-| **8** | **4** | **2028** | **Seattle, WA** |
+| **9** | **5** | **2028** | **Seattle, WA** |
 
 </div>
 
@@ -53,6 +53,7 @@
 | 🥇 Honor | 🔎 What it was |
 |:---|:---|
 | **🥇 1st Place — ConnectAble (2026)** | Predictive AAC system for non-verbal users · 3-layer ML cascade |
+| **🥉 3rd Place — Medical Bill Guardian, MHacks 2026 (Capital One Track)** | iMessage agent that checks every hospital bill charge against medical records |
 | **🏅 4th Place — Linx, BeaverHacks 2026 (NVIDIA Track)** | Offline local-first AI for Alzheimer's care on a ~$150 Raspberry Pi |
 | **🎖️ Honorable Mention — DubsTech Datathon 2026** | Healthcare access inequity analysis · 93.7% ML accuracy |
 | **🎖️ Honorable Mention — Sea Score (2025)** | Sustainability app with zero-shot ML photo verification |
@@ -126,6 +127,25 @@
 ![Frontend](https://img.shields.io/badge/React%2018%20%C2%B7%20TypeScript%20%C2%B7%20Vite%20%C2%B7%20Tailwind-61DAFB?style=flat-square&logo=react)
 ![Backend](https://img.shields.io/badge/FastAPI%20%C2%B7%20SQLite%20%C2%B7%20ChromaDB-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LLM](https://img.shields.io/badge/Ollama%20phi3%20(local)-000000?style=flat-square&logo=ollama&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧾 Medical Bill Guardian — iMessage Billing Agent &nbsp;·&nbsp; 🥉 3rd Place, MHacks 2026 (Capital One Track)
+
+</div>
+
+> A billing assistant you text. It finds the hospital payment in a **Capital One Nessie** sandbox account, pulls records from **FinchNode**, and on your YES has a **Fish Audio** voice agent call billing for the itemized bill. Billing texts back a PDF link; the agent parses it and traces every charge to a record or marks it "needs review." The bill check is **deterministic code, not AI**, and every outside action waits for patient approval. Built by a team of 4.
+
+<div align="center">
+
+![Award](https://img.shields.io/badge/🥉%203rd%20Place%20%C2%B7%20Capital%20One%20Track-004977?style=flat-square)
+![App](https://img.shields.io/badge/Next.js%2016%20%C2%B7%20React%2019%20%C2%B7%20TypeScript-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Messaging](https://img.shields.io/badge/Photon%20iMessage%20%C2%B7%20Fish%20Audio%20voice-34C759?style=flat-square&logo=imessage&logoColor=white)
+![Data](https://img.shields.io/badge/SQLite%20%C2%B7%20Nessie%20%C2%B7%20FinchNode-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
