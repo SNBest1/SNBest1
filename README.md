@@ -16,7 +16,7 @@
 
 <!-- ░░░ STATUS ROW ░░░ -->
 [![Status](https://img.shields.io/badge/Open%20to-SWE%20Internships-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](mailto:nipun@nipunsaini.com)
-[![Location](https://img.shields.io/badge/Seattle%20%C2%B7%20Bothell-Washington-4B0082?style=for-the-badge&logo=googlemaps&logoColor=FFD700)](/)
+[![Location](https://img.shields.io/badge/Columbus-Ohio-4B0082?style=for-the-badge&logo=googlemaps&logoColor=FFD700)](/)
 [![OSU](https://img.shields.io/badge/OSU-Class%20of%202028-4B0082?style=for-the-badge&logo=googlescholar&logoColor=FFD700)](https://www.osu.edu/)
 
 <!-- ░░░ SOCIAL ROW ░░░ -->
@@ -40,7 +40,7 @@
 
 | 🚀 Builds shipped | 🏆 Hackathon awards | 🎓 Graduating | 📍 Based in |
 |:---:|:---:|:---:|:---:|
-| **11** | **5** | **2028** | **Seattle, WA** |
+| **11** | **5** | **2028** | **Columbus, OH** |
 
 </div>
 
