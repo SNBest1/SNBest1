@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Nipun
 
-**`Computer Engineering @ University of Washington · Class of 2028`**
+**`Computer Engineering @ Ohio State University · Class of 2028`**
 
 <p><em>I build machine learning, full-stack, and assistive technology that people actually need.</em></p>
 
@@ -17,7 +17,7 @@
 <!-- ░░░ STATUS ROW ░░░ -->
 [![Status](https://img.shields.io/badge/Open%20to-SWE%20Internships-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](mailto:nipun@nipunsaini.com)
 [![Location](https://img.shields.io/badge/Seattle%20%C2%B7%20Bothell-Washington-4B0082?style=for-the-badge&logo=googlemaps&logoColor=FFD700)](/)
-[![UW](https://img.shields.io/badge/UW-Class%20of%202028-4B0082?style=for-the-badge&logo=googlescholar&logoColor=FFD700)](https://www.washington.edu/)
+[![OSU](https://img.shields.io/badge/OSU-Class%20of%202028-4B0082?style=for-the-badge&logo=googlescholar&logoColor=FFD700)](https://www.osu.edu/)
 
 <!-- ░░░ SOCIAL ROW ░░░ -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-nipunsaini.com-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://nipunsaini.com)
@@ -34,7 +34,7 @@
 
 </div>
 
-> I'm a Computer Engineering student at the University of Washington who builds at the edge of **hardware and intelligence** — from low-level systems to ML models that draft sentences for non-verbal users, watch over Alzheimer's patients offline, and surface healthcare disparities hidden in the data.
+> I'm a Computer Engineering student at Ohio State University who builds at the edge of **hardware and intelligence** — from low-level systems to ML models that draft sentences for non-verbal users, watch over Alzheimer's patients offline, and surface healthcare disparities hidden in the data.
 
 <div align="center">
 
