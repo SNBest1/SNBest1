@@ -10,7 +10,7 @@
 <p><em>I build machine learning, full-stack, and assistive technology that people actually need.</em></p>
 
 <!-- ░░░ TYPING SVG ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=9+builds+shipped.+5+hackathon+awards.;ConnectAble+%E2%80%94+1st+Place+%F0%9F%8F%86;Medical+Bill+Guardian+%E2%80%94+3rd+Place%2C+MHacks+Capital+One;Linx+%E2%80%94+4th+Place%2C+BeaverHacks+NVIDIA;93.7%25+ML+accuracy+across+75+subgroups;Building+at+the+edge+of+hardware+%2B+intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=11+builds+shipped.+5+hackathon+awards.;ConnectAble+%E2%80%94+1st+Place+%F0%9F%8F%86;Medical+Bill+Guardian+%E2%80%94+3rd+Place%2C+MHacks+Capital+One;Linx+%E2%80%94+4th+Place%2C+BeaverHacks+NVIDIA;93.7%25+ML+accuracy+across+75+subgroups;Building+at+the+edge+of+hardware+%2B+intelligence)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,7 +40,7 @@
 
 | 🚀 Builds shipped | 🏆 Hackathon awards | 🎓 Graduating | 📍 Based in |
 |:---:|:---:|:---:|:---:|
-| **9** | **5** | **2028** | **Seattle, WA** |
+| **11** | **5** | **2028** | **Seattle, WA** |
 
 </div>
 
@@ -203,6 +203,44 @@
 ![Frontend](https://img.shields.io/badge/React%20Native%20(Expo)-61DAFB?style=flat-square&logo=react)
 ![Backend](https://img.shields.io/badge/Node.js%20%C2%B7%20Express%20%C2%B7%20Firebase-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![ML](https://img.shields.io/badge/OWLv2%20Zero--Shot-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⏪ Rewind Duel — Replay the Round You Lost &nbsp;·&nbsp; DevHacks 2026 (Riot Games Track)
+
+</div>
+
+> A 1v1 tactical shooter recorded tick by tick on a **deterministic server**, so any moment can be rebuilt exactly. Scrub a replay, ask a coach that plays **100 alternative futures** (20 plans × 5 runs), then take control from that tick. Your opponent repeats their real moves until you change the fight, then becomes a recreation of them: a **k-nearest-neighbours** clone of their habits out of fights and an AI at their rank in fights. No LLM anywhere; decisions run 32 times a second.
+
+<div align="center">
+
+![Engine](https://img.shields.io/badge/Deterministic%20TypeScript%20engine-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Server](https://img.shields.io/badge/Node.js%20%C2%B7%20WebSockets%20%C2%B7%2032%20ticks%2Fs-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Client](https://img.shields.io/badge/Unity%206%20%C2%B7%20WebGL-000000?style=flat-square&logo=unity&logoColor=white)
+![Bots](https://img.shields.io/badge/k--NN%20clone%20%2B%20belief--map%20AI-8A2BE2?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏟️ Gameday Command — Crowd Response Simulator &nbsp;·&nbsp; HackOHI/O 2026
+
+</div>
+
+> A practice tool for police commanders who run game day at **Ohio Stadium**. It simulates **100,000 fans** on a real OpenStreetMap grid, lets a commander trigger an incident, and runs the same moment under three response plans side by side with a scorecard each. Crowd physics is plain code; a **local model** answers decisions only, and grouping collapses 57,974 dot decisions into about 144 model calls. One browser Web Worker runs at **222x real time**. The commander always makes the call.
+
+<div align="center">
+
+![App](https://img.shields.io/badge/React%20%C2%B7%20Vite%20%C2%B7%20PixiJS%208-61DAFB?style=flat-square&logo=react)
+![Engine](https://img.shields.io/badge/TypeScript%20Web%20Workers%20%C2%B7%20flow%20fields-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Server](https://img.shields.io/badge/Hono%20%C2%B7%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Models](https://img.shields.io/badge/Kev--4B%20(MLX)%20%C2%B7%20on--device%20briefing-000000?style=flat-square&logo=apple&logoColor=white)
 
 </div>
 
